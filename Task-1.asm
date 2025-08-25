@@ -1,5 +1,5 @@
 INCLUDE irvine32.inc
-
+				  8    16    32    64    128
 .data			;BYTE WORD DWORD QWORD TWORD
 ;varName datatype value
 var1 word 32
